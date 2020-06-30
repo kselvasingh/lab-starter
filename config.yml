@@ -27,34 +27,34 @@ steps:
 - title: # The first Arc
   description: # What led Karasuno to the first match against Aoba Johsai. 
   event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-  actions: # a list of the actions that will occur when the step is triggered by an event
+  actions: # issue_commented.created
   - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 2: EDIT HERE -INTERNAL COMMENT FOR STEP 2
 # - title: # The second arc. 
 #  description: # what led Karasuno to beat Aoba Johsai the second time around. 
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-#  actions: # a list of the actions that will occur when the step is triggered by an event
+#  actions: # issue_commented.created
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 3: EDIT HERE - INTERNAL COMMENT FOR STEP 3
 # - title: # the third arc
 #  description: # What led Karasuno to beat Shiratorizawa. 
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-#  actions: # a list of the actions that will occur when the step is triggered by an event
+#  actions: # issue_commented.created
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 4: EDIT HERE - INTERNAL COMMENT FOR STEP 4
 # - title: # the fourth arc. 
 #  description: # What led Karasuno to play Inarizaki. 
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-#  actions: # a list of the actions that will occur when the step is triggered by an event
+#  actions: # issue_commented.created
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 5: EDIT HERE - INTERNAL COMMENT FOR STEP 5
 # - title: # The fifth arc, leading to the final arc. 
 #  description: # what led karasuno to lose their first nationals. 
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-#  actions: # a list of the actions that will occur when the step is triggered by an event
+#  actions: # issue_commented.created
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
